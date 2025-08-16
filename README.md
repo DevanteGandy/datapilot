@@ -24,3 +24,4 @@
 - Export chart to PNG
 - Saved queries (localStorage)
 - Example dataset button
+<img width="928" height="869" alt="{36BC445A-6ACD-4484-803C-ECB6C8018AE9}" src="https://github.com/user-attachments/assets/36668d86-0d23-4d04-8319-47fa575e0333" />
